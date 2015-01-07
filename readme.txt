@@ -27,22 +27,39 @@ Link to [TubEntertain]( http://tubentertain.com/t)
 Youtube Api V3 and Twitter Api V1.1 Compliance.
 
 -Scroll to view on video played
+
 -Subscription button enable
+
 -Viewers Statistics (coming soon)
+
 -Populate your YouTube Live Stream on your site.
+
 -Enable video download (coming soon)
+
 -Populate your Twitter Real Time Updates on your site.
+
 -Brand your own uploaded YouTube video, like they saved on your site.
+
 -Responsive interface tested prove.
+
 -Work smoothly on IE 8+, Firefox, Chrome, and Safari.
+
 -Effortlessly used in WordPress templates.
+
 -Tested and compatible up to WordPress Version 4+.
+
 -Switch between Live View or Feature Video and Playlist.
+
 -After clicking a thumbnail, videos can play.
+
 -Videos play perfectly on nearly every mobile device that supports HTML5 or Flash.
+
 -Automatically start the next video in a playlist gallery when playback ended.
+
 -One full year of priority support.
+
 -No monthly or long term subscription.
+
 -First customization support request is free, further request may deserve charges.
 
 
