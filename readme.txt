@@ -20,36 +20,35 @@ Version 1.0 is  Youtube Api V2 and Twitter Api V1.1  Compliance, while the pro c
 For further customization please contact entertainer@tubentertain.com
 Link to [TubEntertain]( http://tubentertain.com/t)
 
-<br/>
 
-** Features **
+**Features**
 
 -Populate all your own uploaded YouTube video galleries on your site or within your mobile application.
 Youtube Api V3 and Twitter Api V1.1 Compliance.
-<p>
--Scroll to view on video played<p>
--Subscription button enable<p>
--Viewers Statistics (coming soon)<p>
--Populate your YouTube Live Stream on your site.<p>
--Enable video download (coming soon)<p>
+
+-Scroll to view on video played
+-Subscription button enable
+-Viewers Statistics (coming soon)
+-Populate your YouTube Live Stream on your site.
+-Enable video download (coming soon)
 -Populate your Twitter Real Time Updates on your site.
--Brand your own uploaded YouTube video, like they saved on your site.<p>
--Responsive interface tested prove.<p>
--Work smoothly on IE 8+, Firefox, Chrome, and Safari.<p>
--Effortlessly used in WordPress templates.<p>
--Tested and compatible up to WordPress Version 4+.<p>
--Switch between Live View or Feature Video and Playlist.<p>
--After clicking a thumbnail, videos can play.<p>
--Videos play perfectly on nearly every mobile device that supports HTML5 or Flash.<p>
+-Brand your own uploaded YouTube video, like they saved on your site.
+-Responsive interface tested prove.
+-Work smoothly on IE 8+, Firefox, Chrome, and Safari.
+-Effortlessly used in WordPress templates.
+-Tested and compatible up to WordPress Version 4+.
+-Switch between Live View or Feature Video and Playlist.
+-After clicking a thumbnail, videos can play.
+-Videos play perfectly on nearly every mobile device that supports HTML5 or Flash.
 -Automatically start the next video in a playlist gallery when playback ended.
--One full year of priority support.<p>
--No monthly or long term subscription.<p>
--First customization support request is free, further request may deserve charges.<p>
+-One full year of priority support.
+-No monthly or long term subscription.
+-First customization support request is free, further request may deserve charges.
 
 
 == Installation ==
 
-1. In the wordpress admin page Go to **-->**Plugins **-->**Add New **-->**Search For "TubEntertain" **-->** Click Install.
+1. In the wordpress admin page Go to **>**Plugins **>**Add New **>**Search For "TubEntertain" **>** Click Install.
 
 1B. Alternatively  Download and Upload "TubEntertain" to the "/wp-content/plugins/" directory.
 
@@ -69,7 +68,7 @@ Youtube Api V3 and Twitter Api V1.1 Compliance.
 
    
 4. Finally, copy and paste **[tubentertain]** in your templates or page you will like your player to appear.
-<br/>
+
 
 
 == Frequently Asked Questions ==
