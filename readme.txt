@@ -83,9 +83,10 @@ A question that someone might have, should be email to entertainer@tubentertain.
 
 == Screenshots ==
 
-1. This how the playlist look like screenshot-1.png .
-2. This how the player screen look like screenshot-2.png .
-
+1. This how the player screen  look like on V2.0 screenshot-1.png .
+2. This how the playlist look like on V2.0 screenshot-2.png .
+3. This how the playlist look like screenshot-3.png .
+4. This how the player screen look like screenshot-4.png .
 
 == Changelog ==
 = 0.2 =
