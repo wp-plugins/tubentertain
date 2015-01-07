@@ -16,9 +16,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 TubEntertain Is a Powerful Plugin That Let You Create a Video Gallery of Your YouTube Live Stream and All Uploaded Videos In Your WordPress  or  Other Website, Alongside With Your Twitter Live Stream, It Is Very Simple, Yet Dynamic.
 TubEntertain Is A Full Responsive Video Player Plugin for wordpress. 
-Version 1.0 is  Youtube Api V2 and Twitter Api V1.1  Compliance, while the pro copy is Youtube Api V3  and Twitter Api V1.1  Compliance
+
+Version 1.0 is  Youtube Api V2 and Twitter Api V1.1  Compliance, while the Pro copy is Youtube Api V3  and Twitter Api V1.1  Compliance
 For further customization please contact entertainer@tubentertain.com
-Link to [TubEntertain]( http://tubentertain.com/t)
+Link to [DEMO PAGE]( http://tubentertain.com/t)
 
 **Features**
 
@@ -32,6 +33,7 @@ Youtube Api V3 and Twitter Api V1.1 Compliance.
 4.Viewers Statistics (coming soon)
 
 5.Populate your YouTube Live Stream on your site.
+
 6.Enable video download (coming soon)
 
 7.Populate your Twitter Real Time Updates on your site.
@@ -63,7 +65,7 @@ Youtube Api V3 and Twitter Api V1.1 Compliance.
 == Installation ==
 
 1. In the wordpress admin page Go to **>**Plugins **>**Add New **>**Search For "TubEntertain" **>** Click Install.
-1B. Alternatively  Download and Upload "TubEntertain" to the "/wp-content/plugins/" directory.
+**1B)** Alternatively  Download and Upload "TubEntertain" to the "/wp-content/plugins/" directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Go to the plugin setting type in your youtube username,
  (if you don't have youtube user name, then you need to login to your youtube account, 
@@ -73,7 +75,7 @@ Youtube Api V3 and Twitter Api V1.1 Compliance.
  you will have a similar url [https://www.youtube.com/user/your_new_usename]
  all you need there is the username not the full url,
  copy the user name and enter it into the "YouTube UserName" Input on TubEntertain admin section)
-3B **if you are using the Pro copy you will need your channel ID instead of user name.**   
+**3B)** **if you are using the Pro copy you will need your channel ID instead of user name.**   
 4. Finally, copy and paste **[tubentertain]** in your templates or page you will like your player to appear.
 
 == Frequently Asked Questions ==
