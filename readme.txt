@@ -1,6 +1,6 @@
 === TubEntertain ===
 Contributors: Justin, Tolu
-Tags: YouTube, TubEntertain, Player, Wordpress , Player, Video On Demand,  
+Tags: YouTube, TubEntertain, Player, youtube for Wordpress , Player, Video On Demand,YouTube Live Stream,videostreaming, Twitter , twitter Api
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=385UR7MYGGB24
 Requires at least: 3.0.1
 Tested up to: 4.1
@@ -13,13 +13,14 @@ License: GPLv2 or later.
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-
-TubEntertain Is a Powerful Plugin That Let You Create a Video Gallery of Your YouTube Live Stream and All Uploaded Videos In Your WordPress  or  Other Website, Alongside With Your Twitter Live Stream, It Is Very Simple, Yet Dynamic.
+TubEntertain Is a Powerful wordpress Plugin That Let You Create a Video Gallery of Your YouTube Live Stream and All Uploaded Videos in your WordPress  or  Other Website, Alongside With Your Twitter Live Stream, It Is Very Simple, Yet Dynamic.
 TubEntertain Is A Full Responsive Video Player Plugin for wordpress. 
 
 Version 1.0 is  Youtube Api V2 and Twitter Api V1.1  Compliance, while the Pro copy is Youtube Api V3  and Twitter Api V1.1  Compliance
 For further customization please contact entertainer@tubentertain.com
-Link to [DEMO PAGE]( http://tubentertain.com/t)
+Link to [DEMO PAGE]( http://tubentertain.com/t).
+
+All you need is your Channel Id and Twitter username.
 
 **Features**
 
