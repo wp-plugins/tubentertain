@@ -87,6 +87,7 @@ A question that someone might have, should be email to entertainer@tubentertain.
 2. This how the playlist look like on V2.0 screenshot-2.png .
 3. This how the playlist look like screenshot-3.png .
 4. This how the player screen look like screenshot-4.png .
+5. This how the Plugin Admin Panel look like screenshot-5.png .
 
 == Changelog ==
 = 0.2 =
