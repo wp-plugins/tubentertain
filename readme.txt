@@ -1,5 +1,4 @@
 === TubEntertain ===
-Contributors: Justin, Tolu
 Tags: YouTube, TubEntertain, Player, youtube for Wordpress , Player, Video On Demand,YouTube Live Stream,videostreaming, Twitter , twitter Api
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=385UR7MYGGB24
 Requires at least: 3.0.1
